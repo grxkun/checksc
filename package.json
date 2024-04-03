@@ -1,0 +1,26 @@
+{
+  "name": "checksc",
+  "version": "1.1.4",
+  "description": "check configuraton of connected account in the smartcontract",
+  "main": "checksc.js",
+  "scripts": {
+    "test": "checksc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grxkun/checksc.git"
+  },
+  "keywords": [
+    "smartcontract"
+  ],
+  "author": "grxkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grxkun/checksc/issues"
+  },
+  "homepage": "https://github.com/grxkun/checksc#readme",
+  "dependencies": {
+    "node": "^18.20.0",
+    "web3": "^4.7.0"
+  }
+}
